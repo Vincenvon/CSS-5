@@ -13,8 +13,8 @@ body {
 
 .square {
     display: inline-block;
-    width: 20vh;
-    height: 20vh;
+    width: 20vmin;
+    height: 20vmin;
     font-size: 20px;
     position: relative;
 }
